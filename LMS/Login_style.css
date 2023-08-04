@@ -1,0 +1,14 @@
+body{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.maindiv{
+    width: 50%;
+    height: 600px;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    box-shadow: 0 0 10px 0 white; 
+}
